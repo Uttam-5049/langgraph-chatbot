@@ -32,7 +32,7 @@ Supports multiple conversations with persistent memory stored in SQLite, streami
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kevinsangani988/Langgraph_chatbot.git
+git clone https://github.com/Uttam-5049/langgraph-chatbot.git
 cd langgraph-chatbot
 ```
 
@@ -137,24 +137,5 @@ CONFIG = {'configurable': {'thread_id': 'thread-1'}}
 
 ---
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Open a Pull Request
-
----
-
-## License
-
-MIT License
-
----
-
-## References
-
-- [LangChain Documentation](https://www.langchain.com/)
-- [LangGraph Documentation](https://www.langgraph.com/)
 - [Streamlit Docs](https://docs.streamlit.io/)
 
